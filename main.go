@@ -50,4 +50,5 @@ func main() {
 	//error
 	errVar := errors.New("error detected")
 	fmt.Printf("Type: %T value: %v\n", errVar, errVar)
+
 }
