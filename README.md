@@ -40,3 +40,6 @@ func main() {
 
 }
 
+turunan tipe 
+complex : digunakan untuk tipe data yang memerlukan angka nilai imaginer
+
