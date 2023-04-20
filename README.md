@@ -43,4 +43,5 @@ func main() {
 turunan tipe 
 complex : digunakan untuk tipe data yang memerlukan angka nilai imaginer
 error : adalah integface tipe dari string yang digunakan untuk menangani error di golang 
+interface : digunakan untuk penentu metode dan menyimpan data kosong
 
