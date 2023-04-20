@@ -39,4 +39,17 @@ func main() {
 	errVar := errors.New("error detected")
 	fmt.Printf("Type: %T value: %v\n", errVar, errVar)
 
+	//interface
+	var myInterfaceVar interface{}
+
+	myInterfaceVar = 5
+	fmt.Printf("Type: %T value: %v\n", myInterfaceVar, myInterfaceVar)
+	myInterfaceVar = "Hello guys"
+	fmt.Printf("Type: %T value: %v\n", myInterfaceVar, myInterfaceVar)
+
+}
+
+type MethodList interface {
+	Myfunction()
+	Myfunction2(int) int
 }
