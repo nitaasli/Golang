@@ -40,8 +40,13 @@ func main() {
 
 }
 
-turunan tipe 
+TURUN TIPE
 complex : digunakan untuk tipe data yang memerlukan angka nilai imaginer
 error : adalah integface tipe dari string yang digunakan untuk menangani error di golang 
 interface : digunakan untuk penentu metode dan menyimpan data kosong
+
+ATURAN FUNCTION AT GO-LANG :
+1. Tidak bisa dimulai dengan ANGKA
+2. Tidak dapat memiliki SPASI
+3. Tidak bisa dimulai dengan kata SPECIAL kecuali dengan tanda (_)
 
