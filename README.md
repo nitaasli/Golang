@@ -1,4 +1,4 @@
-# Golang-Basic
+# Golang
 
 //code basic menampilkan atau print kata hello world
 
